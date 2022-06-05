@@ -1,4 +1,4 @@
-a rendezvous point for goroutines waiting for or announcing the occurrence of an event
+> a rendezvous point for goroutines waiting for or announcing the occurrence of an event
 #### cond
 goroutine 不消耗资源的情况下睡眠，直到收到唤醒信号
 ```go
